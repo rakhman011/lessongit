@@ -41,15 +41,15 @@ body { margin: 0; padding: 0}
 	    margin-left: 165px;
 	    padding-top: 76px;
 	    font-size: 18px;
-	    
+
 }
 
-.block_Skills {width: 1440px; height: 695px; background-color: #FFFAF2}
+.block_Skills {width: 1440px; height: 695px; background-color: #ff7733}
 .Skills2 {width: 63px; height: 30px; font-size: 24px;
 		  margin-left: 165px;
 		  padding-top: 93px;
 }
-.profile {width: 1110px; height: 340px; background-color: #FFFAF2;
+.profile {width: 1110px; height: 340px; background-color: ##ff7733;
 		  margin-left: 165px;
 		  margin-top: 86px;
 		  display: flex;
