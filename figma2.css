@@ -1,0 +1,147 @@
+* { box-sizing: border-box; font-family: 'Libre Franklin'}
+
+body { margin: 0; padding: 0}
+
+.container {width: 1440px; height: 3360px; background-color: black;}
+
+.header {width: 1440px; height: 768px; background-color: #fff; background-image: url(bg.png); }
+.Navigation {width: 1110px; height: 30px; display: flex; color: #fff;
+			  margin-left: 165px;
+			  padding-top: 93px;
+
+
+}
+.min_text {width: 550px; height: 30px; font-size: 24px;}
+.min_text2 {width: 550px; height: 30px; font-size: 18px; display: flex; justify-content: space-between;}
+.home {width: 52px; height: 22px; }
+.about {width: 53px; height: 22px;}
+.skills {width: 44px; height: 22px;}
+.Portfolio {width: 73px; height: 22px;}
+.Contact {width: 68px; height: 22px;}
+
+
+
+
+
+.text_header2 {width: 694px; height: 261px; 
+			   margin-left: 165px;
+			   margin-top: 145px;
+			   color: #fff;
+}
+.HI {width: 694px; height: 78px; font-size: 60px;}
+.designer {width: 333px; height: 29px; margin-top: 23px;}
+.works {width: 110px; height: 22px; margin-top: 106px; text-decoration: underline; color: grey;}
+
+.block_text_lorem {width: 1440px; height: 544px; background-color: #FFFFFF; text-align: justify; color: #333333}
+.lorem_title {width: 73px; height: 29px; font-size: 24px; 
+			  margin-left: 165px;
+			  padding-top: 93px;
+}
+.lorem {width: 1107px; height: 231px; 
+	    margin-left: 165px;
+	    padding-top: 76px;
+	    font-size: 18px;
+}
+
+.block_Skills {width: 1440px; height: 695px; background-color: #FFFAF2}
+.Skills2 {width: 63px; height: 30px; font-size: 24px;
+		  margin-left: 165px;
+		  padding-top: 93px;
+}
+.profile {width: 1110px; height: 340px; background-color: #FFFAF2;
+		  margin-left: 165px;
+		  margin-top: 86px;
+		  display: flex;
+		  justify-content: space-between;
+}
+
+.image_profile {width: 350px; height: 340px; background-color: #FFFAF2;}
+.profile_text {width: 635px; height: 340px; background-color: #FFFAF2;}
+
+.front_end {width: 505px; height: 25px; background-color: #FFFAF2; display: flex; justify-content: space-between;}
+.prfl {width: 58px; height: 25px; font-size: 18px}
+.UU {width: 316px; height: 25px; font-size: 17px;}
+
+.research {width: 635px; height: 70px; background-color: #FFFAF2; margin-top: 65px;}
+.block_res {width: 635px; height: 25px; background-color: #FFFAF2; display: flex; justify-content: space-between;}
+.UX {width: 111px; height: 25px; font-size: 18px;}
+.block {width: 446px; height: 25px; background-color: #F5D6AB; display: flex;}
+.bl1 {width: 381px; height: 25px; background-color: #C66C49}
+.tools {width: 363px; height: 25px; background-color: #FFFAF2; margin-top: 20px; display: flex; justify-content: space-between;}
+.Tls {width: 46px; height: 25px; font-size: 18px}
+.paper {width: 174px; height: 25px;}
+
+.UI_design {width: 635px; height: 70px; background-color: #FFFAF2; margin-top: 20px;}
+.design {width: 635px; height: 25px; background-color: #FFFAF2; display: flex; justify-content: space-between;}
+.des {width: 82px; height: 25px; font-size: 17px}
+.block2 {width: 446px; height: 25px; background-color: #F5D6AB;}
+.bl2 {width: 351px; height: 25px; background-color: #C66C49}
+.adobe {width: 466px; height: 25px; background-color: #FFFAF2; margin-top: 20px; display: flex; justify-content: space-between;}
+.Tls1 {width: 46px; height: 25px;font-size: 18px; }
+.adobee {width: 277px; height: 25px; background-color: #FFFAF2; font-size: 17px; }
+
+.front_end_dev {width: 635px; height: 70px; background-color: #FFFAF2; margin-top: 20px;}
+.dev {width: 635px; height: 25px; background-color: #FFFAF2; display: flex; justify-content: space-between;}
+.ftd {width: 123px; height: 25px; font-size: 17px;}
+.block3 {width: 446px; height: 25px; background-color: #F5D6AB;}
+.bl3 {width: 286px; height: 25px; background-color: #C66C49}
+.html {width: 461px; height: 25px; background-color: #FFFAF2; margin-top: 20px; display: flex; justify-content: space-between;}
+.Tls2 {width: 46px; height: 25px; font-size: 18px;}
+.html_css {width: 272px; height: 25px;}
+
+
+
+.Section_image {width: 1440px; height: 825px; background-color: #FFFFFF; display: flex;}
+
+.section_text {width: 50%; height: 825px; background-color: #FFFFFF;}
+
+.port {width: 102px; height: 30px; font-size: 24px; margin-left: 165px; margin-top: 93px;}
+
+.lor_UX {width: 350px; height: 210px; margin-left: 165px; margin-top: 86px;}
+.URS {width: 140px; height: 25px; font-size: 18px}
+.lrm {width: 350px; height: 137px; font-size: 17px; margin-top: 48px;}
+
+.boutton {width: 62px; height: 24px; background-color: #FFFFFF; margin-left: 189px; margin-top: 230px; display: flex; justify-content: space-between;}
+.bt1 {width: 24px; height: 24px; background-color: #FFFFFF;}
+.bt2 {width: 24px; height: 24px; background-color: #FFFFFF;}
+
+
+.section_image {width: 50%; height: 825px; background-color: #FFFFFF;}
+.image4 {width: 635px; height: 405px; background-color: #FFFFFF; margin-top: 275px; display: flex; justify-content: space-between;}
+
+.block_img1 {width: 350px; height: 405px; background-color: #FFFFFF;}
+.img1 {width: 350px; height: 144px; background-color: #FFFFFF;}
+.img1 > img {width: 100%;}
+.img2 {width: 350px; height: 235px; background-color: #FFFFFF; margin-top: 26px;}
+.img2 > img {width: 100%; height: 100%;}
+
+
+.block_img2 {width: 255px; height: 405px; background-color: #FFFFFF;}
+.img3 {width: 255px; height: 235px; background-color: #FFFFFF;}
+.img3 > img {width: 100%; height: 100%;}
+.img4 {width: 255px; height: 144px; background-color: #FFFFFF; margin-top: 26px;}
+.img4 > img {width: 100%; height: 100%;}
+
+
+.footer {width: 1440px; height: 530px; background-color: #FFFAF2}
+
+.get {width: 143px; height: 30px; font-size: 24px; margin-left: 180px; padding-top: 93px;}
+.footer_text {width: 1440px; height: 166px; background-color: #FFFAF2; display: flex; justify-content: space-around; margin-top: 50px;}
+.text_f1 {width: 78px; height: 166px; background-color: #FFFAF2; font-size: 15px; }
+.text_f2 {width: 86px; height: 130px; background-color: #FFFAF2; font-size: 15px;}
+.text_f3 {width: 168px; height: 54px; background-color: #FFFAF2; font-size: 15px;}
+
+
+.boutt {width: 1440p; height: 24px; background-color: #FFFAF2; margin-top: 95px;}
+.btton {width: 24px; height: 24px; background-color: #FFFAF2; margin-left: 1260px;}
+
+
+
+
+
+
+
+
+
+
+
