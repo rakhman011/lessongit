@@ -124,7 +124,7 @@ body { margin: 0; padding: 0}
 .img4 > img {width: 100%; height: 100%;}
 
 
-.footer {width: 1440px; height: 530px; background-color: #FFFAF2}
+.footer {width: 1440px; height: 530px; background-color: #ff7733}
 
 .get {width: 143px; height: 30px; font-size: 24px; margin-left: 180px; padding-top: 93px;}
 .footer_text {width: 1440px; height: 166px; background-color: #FFFAF2; display: flex; justify-content: space-around; margin-top: 50px;}
