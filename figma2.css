@@ -12,7 +12,7 @@ body { margin: 0; padding: 0}
 
 }
 .min_text {width: 550px; height: 30px; font-size: 24px;}
-.min_text2 {width: 550px; height: 30px; font-size: 18px; display: flex; justify-content: space-between;}
+.min_text2 {width: 550px; height: 30px; font-size: 20px; display: flex; justify-content: space-between;}
 .home {width: 52px; height: 22px; }
 .about {width: 53px; height: 22px;}
 .skills {width: 44px; height: 22px;}
