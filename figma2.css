@@ -4,7 +4,7 @@ body { margin: 0; padding: 0}
 
 .container {width: 1440px; height: 3360px; background-color: black;}
 
-.header {width: 1440px; height: 768px; background-color: black; background-image: url(bg.png); }
+.header {width: 1440px; height: 768px; background-color: red; background-image: url(bg.png); }
 .Navigation {width: 1110px; height: 30px; display: flex; color: #fff;
 			  margin-left: 165px;
 			  padding-top: 93px;
